@@ -1,6 +1,6 @@
-# bamazon-app
+# Shopping_WebApp
 
-Image of bamazon app in use 
+Image of the application in use
 
 ![Image of Bamazon Application Working]
 
